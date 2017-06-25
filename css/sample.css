@@ -297,8 +297,9 @@ h1 {
       padding-bottom: 20px; } }
 #contents #main .news_li {
   font-size: 15px;
-  font-size: 1.5rem li;
-    font-size-list-style: none; }
+  font-size: 1.5rem; }
+  #contents #main .news_li li {
+    list-style: none; }
   #contents #main .news_li span {
     color: #42b9d0;
     display: block;
